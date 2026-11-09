@@ -203,3 +203,6 @@ This repository serves as the official landing page for Star Wars: Force Command
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Wars: Force Commander today!**
+
+---
+**Last updated:** 2026-11-09 13:41:32 UTC
